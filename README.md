@@ -1,1 +1,1 @@
-# PowerBI-churn-analysis
+# Power BI projects
